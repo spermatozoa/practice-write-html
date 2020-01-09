@@ -1,0 +1,5 @@
+font-size:文字大小
+border:設定邊框
+background-color:設定背景顏色
+background-image:設定背景圖片
+background-repeat: no-repeat;  讓背景圖片不重複出現
